@@ -1,0 +1,27 @@
+{
+  "name": "week3-wsp",
+  "version": "1.0.0",
+  "description": "Week3 lab task",
+  "main": "index.js",
+  "scripts": {
+    "test": "tester"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bonnie143-kir/week3-WSP.git"
+  },
+  "keywords": [
+    "using",
+    "express"
+  ],
+  "author": "bongii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bonnie143-kir/week3-WSP/issues"
+  },
+  "homepage": "https://github.com/bonnie143-kir/week3-WSP#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1"
+  }
+}
